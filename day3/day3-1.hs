@@ -1,5 +1,5 @@
-import Data.List (elemIndex, foldl')
-import Data.Text (findIndex, pack)
+import Data.List (foldl')
+import Data.Text (pack)
 import Data.Text.Internal.Search
 
 pattern = "mul("
