@@ -1,7 +1,6 @@
 import Data.List (elemIndex, foldl')
 import Data.Text (findIndex, isPrefixOf, pack)
 import Data.Text.Internal.Search
-import Debug.Trace (trace)
 
 pattern = "mul("
 
